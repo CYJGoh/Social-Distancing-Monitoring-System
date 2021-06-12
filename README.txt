@@ -26,3 +26,5 @@ To run:
 4) The GUI shall be loaded in your default browser
 
 To inference your images or videos, please ensure that your images and video files are placed in the images and videos folder respectively so that the system is able to find your file.
+
+This system is a project assignment created for Swinburne University of Technology COS30018 Intelligent Systems.
